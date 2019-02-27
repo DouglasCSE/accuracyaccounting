@@ -1,0 +1,117 @@
+#header {
+  background: url("../images/bannerT.png");
+  width: 1360px;
+  height: 382px;
+  padding: 0px;
+
+}
+
+ul{
+  list-style-type: none; <!-- removes bullet-->
+  margin: 0;
+  padding: 8px;
+  overflow: hidden;
+  background-color: black;
+  text-align: center;
+}
+li {
+  display: inline;
+}
+li a {
+  display: block;
+  display: inline;
+  font-size: 20px;
+  color: white;
+  text-align: center;
+  padding: 14px;
+  text-decoration: none;
+}
+li a:hover {
+  background-color: #111
+}
+section{
+  border-bottom: solid;
+  border-color: #7092BE;
+  padding-top: 0px;
+  border-width: thick;
+  padding-bottom: 0px;
+}
+h1{
+  text-align: center;
+}
+i class{
+  font-size: 60px;
+}
+h3{
+  text-align: center;
+color: black;
+}
+.footer1 {
+  background-color: #7092BE;
+  box-sizing: border-box;
+  text-align: left;
+  height: 150px;
+  padding: 15px;
+  color: white;
+}
+.footer1 .footer-right{
+  float:right;
+  margin: 15px;
+  letter-spacing: 4px;
+  font-size: 30px;
+  color: white;
+}
+.footer1 .footer-left {
+}
+.footer-right a{
+  color: white;
+}
+a{
+  text-decoration: none;
+  color: white;
+  font-family: sans-serif;
+  font-size: 25px;
+}
+a:hover{
+  opacity: 0.5;
+  color: black;
+}
+p{
+  color: white;
+}
+.fa-linkedin-in{
+  color: white;
+}
+  .fa-linkedin-in:hover{
+    opacity: 0.5;
+    color: black;
+  }
+
+.fa-envelope{
+    color: white;
+}
+  .fa-envelope:hover{
+    opacity: 0.5;
+    color: black;
+  }
+.fa-facebook-square{
+  color: white;
+}
+    .fa-facebook-square:hover{
+      opacity: 0.5;
+      color: black
+    }
+.fa-instagram{
+  color: white;
+}
+  .fa-instagram:hover{
+    opacity: 0.5;
+    color: black;
+  }
+.fa-phone{
+  color: white;
+}
+  .fa-phone:hover{
+    opacity: 0.5;
+    color: black;
+  }
