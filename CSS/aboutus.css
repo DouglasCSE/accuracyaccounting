@@ -1,0 +1,132 @@
+#header {
+  background: url("../images/bannerT.png")no-repeat 250px -5px;
+  width: auto;
+  height: 350px;
+  padding: 0px;
+  background-color: #ffffff;
+}
+
+ul{
+  list-style-type: none; <!-- removes bullet-->
+  margin: 0;
+  padding: 8px;
+  overflow: hidden;
+  background-color: black;
+  text-align: center;
+}
+li {
+  display: inline;
+}
+li a {
+  display: block;
+  display: inline;
+  font-size: 20px;
+  color: white;
+  text-align: center;
+  padding: 14px;
+  text-decoration: none;
+}
+li a:hover {
+  background-color: #111
+}
+section{
+  border-bottom: solid;
+  border-color: #FF9000;
+  padding-top: 0px;
+  border-width: thick;
+  height: 10px;
+  padding-bottom: 0px;
+}
+h1{
+  text-align: center;
+  font-size: 50px;
+  padding: 0px;
+}
+i{
+  font-size: 50px;
+  color: black;
+}
+h2{
+  text-align: center;
+  color: black;
+  width: 80%;
+  margin-left: 160px;
+}
+.footer1 {
+  background-color: #7092BE;
+  box-sizing: border-box;
+  text-align: left;
+  height: 150px;
+  padding: 15px;
+  color: white;
+}
+.footer1 .footer-right{
+  float:right;
+  margin: 15px;
+  letter-spacing: 4px;
+  font-size: 30px;
+  color: white;
+}
+.footer1 .footer-left {
+}
+.footer-right a{
+  color: white;
+}
+a{
+  text-decoration: none;
+  color: white;
+  font-family: sans-serif;
+  font-size: 25px;
+}
+a:hover{
+  opacity: 0.5;
+  color: #FF9000;
+}
+/* links in footer*/
+h3{
+  text-align: left;
+  color: white;
+  margin-top: 15px;
+  padding-bottom: 15px;
+}
+/* copyright*/
+p{
+  color: white;
+  text-align: left;
+}
+.fa-linkedin-in{
+  color: white;
+}
+  .fa-linkedin-in:hover{
+    opacity: 0.5;
+    color: #FF9000;
+  }
+
+.fa-envelope{
+    color: white;
+}
+  .fa-envelope:hover{
+    opacity: 0.5;
+    color: #FF9000;
+  }
+.fa-facebook-square{
+  color: white;
+}
+    .fa-facebook-square:hover{
+      opacity: 0.5;
+      color: #FF9000;
+    }
+.fa-instagram{
+  color: white;
+}
+  .fa-instagram:hover{
+    opacity: 0.5;
+    color: #FF9000;
+  }
+.fa-phone{
+  color: white;
+}
+  .fa-phone:hover{
+    opacity: 0.5;
+    color: #FF9000;
+  }
